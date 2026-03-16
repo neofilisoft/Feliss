@@ -44,3 +44,12 @@
 *.cpp
 *.cs
 *.py
+
+# Graphic
+*.glsl
+
+# Runtime
+*.fls
+*CMakeLists.txt
+*.a
+

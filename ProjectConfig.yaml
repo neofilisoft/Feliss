@@ -1,0 +1,7 @@
+script.default_language: csharp
+script.enable_csharp: true
+script.enable_lua: false
+render.preferred_api: opengl
+physics.backend: astercore
+project.default_scene: ./scene.fls
+project.asset_root: ./assets

@@ -10,7 +10,7 @@ bool AsterCoreBackend::init(const PhysicsConfig& config) {
     m_config = config;
     m_gravity = config.gravity;
 
-    const std::filesystem::path sdkPath("C:/Users/BEST/Desktop/Repo/AsterCorePhysics");
+    const std::filesystem::path sdkPath("C:/Users/ME/Desktop/Repo/AsterCorePhysics");
     if (std::filesystem::exists(sdkPath)) {
         FLS_INFOF("Physics", "AsterCore backend selected using SDK reference at " << sdkPath.string());
     } else {

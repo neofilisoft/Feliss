@@ -17,9 +17,7 @@ The full End-User License Agreement (EULA) is available at:
   [ ]  Modify or distribute the Source Code of This Software
        (requires a Developer License — see below)
 
---------------------------------------------------------------------------------
  PERMISSIONS — DEVELOPER LICENSE (Paid)
---------------------------------------------------------------------------------
 
   [x]  All Free Tier permissions
   [x]  Read and modify the Source Code of This Software for

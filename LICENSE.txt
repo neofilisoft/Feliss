@@ -33,9 +33,7 @@ The full End-User License Agreement (EULA) is available at:
   [ ]  Use a modified version of This Software as the basis for a
        competing engine or development tool
 
---------------------------------------------------------------------------------
  ASSETS & RESOURCES
---------------------------------------------------------------------------------
 
   Assets distributed with This Software are subject to separate terms:
   - "Free" assets may be used in any End Product at no additional cost.
@@ -43,9 +41,7 @@ The full End-User License Agreement (EULA) is available at:
   - Assets may not be redistributed as standalone files outside a
     compiled End Product without written permission from Neofilisoft.
 
---------------------------------------------------------------------------------
- THIRD-PARTY COMPONENTS
---------------------------------------------------------------------------------
+  THIRD-PARTY COMPONENTS
 
   This Software may include the following third-party libraries,
   each governed by their respective licenses:
@@ -57,9 +53,7 @@ The full End-User License Agreement (EULA) is available at:
   Neofilisoft's proprietary license applies only to Feliss Engine itself
   and does not supersede the licenses of these third-party components.
 
---------------------------------------------------------------------------------
- DISCLAIMER
---------------------------------------------------------------------------------
+  DISCLAIMER
 
   THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
   EXPRESS OR IMPLIED. NEOFILISOFT DISCLAIMS ALL WARRANTIES INCLUDING
@@ -76,7 +70,5 @@ The full End-User License Agreement (EULA) is available at:
   Developer License   : [https://neofilisoft.com/license]
   Website             : [https://neofilisoft.com]
 
-================================================================================
  Copyright (c) 2026 Neofilisoft. All Rights Reserved.
  "Feliss" and "Feliss Engine" are trademarks of Neofilisoft.
-================================================================================

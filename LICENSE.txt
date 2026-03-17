@@ -1,6 +1,12 @@
  FELISS ENGINE — End-User License Agreement
  Copyright (c) 2026 Neofilisoft. All Rights Reserved.
 
+This Software may include third-party components licensed under
+separate open-source licenses (e.g., MIT, Apache 2.0).
+
+Such components remain subject to their respective licenses.
+Nothing in this Agreement overrides or restricts those rights.
+
 IMPORTANT: By downloading, installing, copying, or using Feliss Engine
 ("This Software"), you agree to the terms of this License. If you do not
 agree, do not use This Software.

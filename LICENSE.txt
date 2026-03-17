@@ -1,0 +1,78 @@
+ FELISS ENGINE — End-User License Agreement
+ Copyright (c) 2026 Neofilisoft. All Rights Reserved.
+
+IMPORTANT: By downloading, installing, copying, or using Feliss Engine
+("This Software"), you agree to the terms of this License. If you do not
+agree, do not use This Software.
+
+The full End-User License Agreement (EULA) is available at:
+  [https://neofilisoft.com/legal/eula]  (or LICENSE.txt)
+
+ PERMISSIONS — FREE 
+
+  [x]  Use This Software for personal and commercial projects
+  [x]  Create, publish, and sell End Products (games, apps, software)
+       built with This Software — royalty-free
+  [x]  Use Assets and Resources marked as "Free" in any End Product
+  [ ]  Modify or distribute the Source Code of This Software
+       (requires a Developer License — see below)
+
+--------------------------------------------------------------------------------
+ PERMISSIONS — DEVELOPER LICENSE (Paid)
+--------------------------------------------------------------------------------
+
+  [x]  All Free Tier permissions
+  [x]  Read and modify the Source Code of This Software for
+       your own internal development purposes
+  [ ]  Redistribute the original or modified Source Code to any third party
+  [ ]  Publish, sublicense, or sell the Source Code in any form
+  [ ]  Use a modified version of This Software as the basis for a
+       competing engine or development tool
+
+--------------------------------------------------------------------------------
+ ASSETS & RESOURCES
+--------------------------------------------------------------------------------
+
+  Assets distributed with This Software are subject to separate terms:
+  - "Free" assets may be used in any End Product at no additional cost.
+  - "Premium" / "Paid" assets require a separate purchase before use.
+  - Assets may not be redistributed as standalone files outside a
+    compiled End Product without written permission from Neofilisoft.
+
+--------------------------------------------------------------------------------
+ THIRD-PARTY COMPONENTS
+--------------------------------------------------------------------------------
+
+  This Software may include the following third-party libraries,
+  each governed by their respective licenses:
+
+  - Jolt Physics (fork: AsterCore)  —  MIT License
+  - Lua 5.x                         —  MIT License
+  - (Additional components listed in /third-party/NOTICES.txt)
+
+  Neofilisoft's proprietary license applies only to Feliss Engine itself
+  and does not supersede the licenses of these third-party components.
+
+--------------------------------------------------------------------------------
+ DISCLAIMER
+--------------------------------------------------------------------------------
+
+  THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+  EXPRESS OR IMPLIED. NEOFILISOFT DISCLAIMS ALL WARRANTIES INCLUDING
+  MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+  USE OF THIS SOFTWARE IS AT YOUR OWN RISK. NEOFILISOFT SHALL NOT BE
+  LIABLE FOR ANY DAMAGES ARISING FROM THE USE OR INABILITY TO USE
+  THIS SOFTWARE.
+
+  CONTACT:
+
+  Neofilisoft
+  Licensing inquiries : [legal@neofilisoft.com]
+  Developer License   : [https://neofilisoft.com/license]
+  Website             : [https://neofilisoft.com]
+
+================================================================================
+ Copyright (c) 2026 Neofilisoft. All Rights Reserved.
+ "Feliss" and "Feliss Engine" are trademarks of Neofilisoft.
+================================================================================

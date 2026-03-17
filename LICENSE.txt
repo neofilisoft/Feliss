@@ -20,7 +20,7 @@ The full End-User License Agreement (EULA) is available at:
   [x]  Create, publish, and sell End Products (games, apps, software)
        built with This Software — royalty-free
   [x]  Use Assets and Resources marked as "Free" in any End Product
-  [ ]  Modify or distribute the Source Code of This Software
+  [/]  Modify or distribute the Source Code of This Software
        (requires a Developer License — see below)
 
  PERMISSIONS — DEVELOPER LICENSE (Paid)
@@ -28,9 +28,9 @@ The full End-User License Agreement (EULA) is available at:
   [x]  All Free Tier permissions
   [x]  Read and modify the Source Code of This Software for
        your own internal development purposes
-  [ ]  Redistribute the original or modified Source Code to any third party
-  [ ]  Publish, sublicense, or sell the Source Code in any form
-  [ ]  Use a modified version of This Software as the basis for a
+  [/]  Redistribute the original or modified Source Code to any third party
+  [/]  Publish, sublicense, or sell the Source Code in any form
+  [/]  Use a modified version of This Software as the basis for a
        competing engine or development tool
 
  ASSETS & RESOURCES

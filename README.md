@@ -168,4 +168,4 @@ Optional or in-progress dependencies:
 
 ## License
 
-See `LICENSE.txt`.
+See `LICENSE.txt`

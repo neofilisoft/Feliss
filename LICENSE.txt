@@ -1,0 +1,119 @@
+FELISS ENGINE LICENSE AND SUBSCRIPTION TERMS
+Copyright (c) 2026 Neofilisoft. All Rights Reserved.
+
+This license governs Feliss Engine itself.
+Third-party components bundled with Feliss remain under their own licenses.
+Nothing in this file overrides rights granted by those third-party licenses.
+
+IMPORTANT
+
+By downloading, installing, copying, modifying, building, or using Feliss Engine,
+you agree to these terms.
+If you do not agree, do not use Feliss Engine.
+
+1. SOURCE CODE RIGHTS
+
+Feliss Engine source code is proprietary.
+This license grants the right to use Feliss to build and ship products, but it does not
+grant the right to modify Feliss Engine source code.
+
+For clarity:
+
+- Paying for Feliss does not grant source modification rights.
+- Individual, Pro, and Enterprise plans do not permit editing Feliss Engine source code.
+- You may inspect source code only to the extent separately allowed by Neofilisoft.
+
+Unless you have a separate written agreement from Neofilisoft, you may not:
+
+- modify Feliss Engine source code
+- create private or public forks of Feliss Engine source code
+- redistribute Feliss Engine source code as a standalone product
+- resell, sublicense, or publish Feliss Engine source code
+- distribute modified or unmodified Feliss Engine source code to third parties as an engine SDK
+- use Feliss branding, trademarks, or official asset entitlements outside this license
+
+2. SUBSCRIPTION TIERS
+
+Individual
+
+- Price: Free
+- Royalty: 3% of qualifying gross revenue
+- Paid assets are not included and must be purchased separately
+
+Pro
+
+- Price: USD 160 per seat per year
+- Royalty: 3% of qualifying gross revenue after the first USD 1,000
+- Selected paid assets may be included at no extra cost where explicitly marked
+
+Enterprise
+
+- Price: USD 1,100 per 20 seats per year
+- Royalty: 1.5% of qualifying gross revenue after the first USD 5,000
+- Paid assets included with the plan may be used without separate purchase, subject to asset-specific restrictions if any
+
+3. ROYALTY BASE
+
+Royalties for products made with Feliss are calculated from qualifying gross revenue,
+including revenue from:
+
+- the base game
+- DLC and expansion packs
+- subscriptions
+- microtransactions
+
+Unless separately agreed in writing, royalty calculations are based on gross revenue
+before platform fees, payment processor fees, taxes, refunds, marketing costs, or
+other deductions.
+
+4. ASSETS
+
+Assets are licensed separately from the engine.
+
+- Free assets may be used according to their listed terms.
+- Paid assets require the entitlement granted by your plan or a separate purchase.
+- Asset inclusion rules depend on the plan and the asset listing.
+- Assets may not be redistributed as standalone files unless the asset license explicitly allows it.
+
+5. USE OF FELISS IN SHIPPED PRODUCTS
+
+You may use Feliss to create, build, export, and ship commercial and non-commercial
+games, applications, tools, simulations, and interactive products, subject to:
+
+- compliance with this license
+- payment of applicable royalties
+- compliance with third-party licenses bundled with or linked into your product
+
+6. THIRD-PARTY COMPONENTS
+
+Feliss may include or link against third-party software.
+Examples may include, but are not limited to:
+
+- SDL
+- Dear ImGui
+- Lua
+- AsterCore or other physics SDK integrations
+
+Each third-party component remains governed by its own license.
+Those licenses apply to the relevant third-party code and assets, not to Feliss itself.
+
+7. DISCLAIMER
+
+FELISS ENGINE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+NEOFILISOFT SHALL NOT BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE
+FELISS ENGINE.
+
+8. TRADEMARKS
+
+"Feliss" and "Feliss Engine" are trademarks of Neofilisoft.
+This license does not grant any trademark rights except for factual reference to Feliss
+as the engine used to build a product.
+
+9. CONTACT
+
+Neofilisoft
+Licensing inquiries: legal@neofilisoft.com

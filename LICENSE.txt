@@ -113,7 +113,6 @@ FELISS ENGINE.
 This license does not grant any trademark rights except for factual reference to Feliss
 as the engine used to build a product.
 
-9. CONTACT
-
+CONTACT:
 Neofilisoft
 Licensing inquiries: legal@neofilisoft.com
